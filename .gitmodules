@@ -1,0 +1,3 @@
+[submodule "llama.cpp.zig"]
+path = llama.cpp.zig
+url = https://github.com/Deins/llama.cpp.zig
